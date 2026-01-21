@@ -4,8 +4,9 @@ This is the official repository for our B.Tech Final Year Project titled
 **"Zero-shot and Few-shot Speech-to-Text Translation for Low-Resource Indian Languages using Audio LLMs."**
 
 ##  Team Members
-- **Sangeet** – 2022ucs0107(IIT JAMMU)
 - **Prabhkirat** – 2022ucs0102(IIT JAMMU)
+- **Sangeet** – 2022ucs0107(IIT JAMMU)
+
 ## Guided By 
 Prof. Mrinmoy Bhattacharya
 
